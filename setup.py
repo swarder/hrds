@@ -1,11 +1,11 @@
 import setuptools
 
-DESCRIPTION = """
-hrds is a python package for obtaining points from a set of rasters at
-different resolutions. You can request a point (or list of points) and
-hrds will return a value based on the highest resolution dataset (as
-defined by the user) available at that point, blending datasets in a
-buffer region to ensure consistancy.
+DESCRIPTION = """\
+hrds is a python package for obtaining points from a set of rasters at\
+different resolutions. You can request a point (or list of points) and\
+hrds will return a value based on the highest resolution dataset (as\
+defined by the user) available at that point, blending datasets in a\
+buffer region to ensure consistancy.\
 """
 
 
